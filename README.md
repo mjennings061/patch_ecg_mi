@@ -1,13 +1,13 @@
 # Patch-Based ECG Development
 
 ## Background
-The 12-lead \gls{ecg} is the most prevalent tool in clinical use to detect acute cardiac syndromes. 
+The 12-lead ECG is the most prevalent tool in clinical use to detect acute cardiac syndromes. 
 In particular, myocardial infarction and related ischaemic disorders. 
 This lead system is inconvenient for ambulatory use, especially when detecting paroxysmal conditions. 
 A patch-based lead system is more convenient for these use-cases. 
-There is a lack of such lead systems that are specific to \gls{st}-segment monitoring, so one must be derived. 
-In particular, the use of a \gls{ssl} patch with lead spacing of 100 mm or less would be sufficiently comfortable while allowing the wearer to undertake ambulatory tasks. 
-In this project, we aim to introduce and evaluate the use of a \gls{ssl} patch-based lead system suitable for \gls{st}-segment monitoring. 
+There is a lack of such lead systems that are specific to ST-segment monitoring, so one must be derived. 
+In particular, the use of a SSL patch with lead spacing of 100 mm or less would be sufficiently comfortable while allowing the wearer to undertake ambulatory tasks. 
+In this project, we aim to introduce and evaluate the use of a SSL patch-based lead system suitable for ST-segment monitoring. 
 
 ## Usage
 
